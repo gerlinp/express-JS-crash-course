@@ -1,0 +1,27 @@
+{
+  "name": "express-JS-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerlinp/express-JS-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerlinp/express-JS-crash-course/issues"
+  },
+  "homepage": "https://github.com/gerlinp/express-JS-crash-course#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3",
+    "moment": "^2.29.1",
+    "uuid": "^8.3.2"
+  }
+}
